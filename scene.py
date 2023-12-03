@@ -1,7 +1,4 @@
 from manim import *
-<<<<<<< HEAD
-from manim import XKCD 
-=======
 from manim.utils.unit import Percent,Pixels
 
 
@@ -40,4 +37,3 @@ def sh(command, print_msg=True):
 if __name__=="__main__":
     sh("python3 -m manim -qm scene.py test")
     
->>>>>>> 146a696f19c419fe9cf9c06e5c5aeffa608c7afc
